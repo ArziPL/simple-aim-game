@@ -8,6 +8,8 @@ Project for school homework. I needed to use sliders, so i used them. App is sup
 ### How to
 Open app, click button, and enjoy.
 
+&nbsp;
+
 ### Rest
 Time run faster and faster everytime you start new game. I guess it shouldn't but ... And game is not finished after time pass but after last action after time pass :\
 
