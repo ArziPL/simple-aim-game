@@ -3,14 +3,20 @@
 ### Description
 Project for school homework. I needed to use sliders, so i used them. App is supposed to imitate aim trainers like Kovaak or AimLab.
 
+&nbsp;
+
 ### How to
 Open app, click button, and enjoy.
 
 ### Rest
 Time run faster and faster everytime you start new game. I guess it shouldn't but ... And game is not finished after time pass but after last action after time pass :\
 
+&nbsp;
+
 ### Technologies
 HTML, CSS, JS
+
+&nbsp;
 
 ### Links
 https://www.kovaak.com/  
