@@ -6,8 +6,6 @@ Project for school homework. I needed to use sliders, so i used them. App is sup
 ### How to
 Open `index.html`, then click start.
 
-&nbsp;
-
 https://www.kovaak.com/  
 https://aimlab.gg/  
 ***
