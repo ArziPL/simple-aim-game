@@ -1,15 +1,17 @@
-# simple-aim-game
+# <div align="center">simple-aim-game</div>
 ***
-### DESCRIPTION
-Project for school homework. I needed to use sliders, so i used them. App is supposed to imitate aim trainers like Kovaak or AimLab. There are few bugs, most problematic is that every time you start new game in one session time run faster and faster.
+#### INTRODUCTION
+I had homework - do something with sliders, i thought i will do osu-like game. 
 
-### USED TECHNOLOGIES
+#### DESCRIPTION
+Just click start, then click as fast as you can on balls and move points on the sliders. After 20sec game will finish, and max score (if achived) will be updated. Bugs : everytime you start new game timer go faster and faster. Don't know why.
+
+#### USED TECHNOLOGIES
 HTML/CSS/PlainJS
 
-### HOW TO
+#### HOW TO
 Open `index.html`
 
-### LINKS
-https://www.kovaak.com/  
-https://aimlab.gg/  
 ***
+
+<div align="center">Hope you had a good time here. If you liked the project, leave a ⭐ and visit <a href="https://github.com/ArziPL">my profile</a> to send feedback, check other projects, or make something cool together</p> 
