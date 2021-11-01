@@ -7,7 +7,7 @@ Project for school homework. I needed to use sliders, so i used them. App is sup
 HTML/CSS/PlainJS
 
 ### HOW TO
-`index.html`
+Open `index.html`
 
 ### LINKS
 https://www.kovaak.com/  
