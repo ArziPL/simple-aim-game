@@ -1,16 +1,7 @@
 # <div align="center">simple-aim-game</div>
-***
 ### DESCRIPTION
-Aim of project :  
-Homework for school. I was supposed to use sliders so i used them. Project inspired by AimTrainers and Osu.
 
-Description :  
-After clicking start click at balls and complete sliders. After each you get points, after 20sec game finish and update record score if last game score is bigger then record. Now you can play another game.
-
-ToDo :  
-- **finished**
-- for some reason after every game time run faster
-- game end when time is 0 and you do next task (click ball, complete slider), probably should reset after timer hits 0 regardless of the circumstances
+Homework for school. I was supposed to use sliders so i used them. Project inspired by AimTrainers and Osu. After clicking start click at balls and complete sliders. After each you get points, after 20sec game finish and update record score if last game score is bigger then record. Now you can play another game.
 
 ### USED TECHNOLOGIES
 <span>
@@ -20,8 +11,9 @@ ToDo :
 </span>  
 
 ### HOW TO
-Open `index.html`
+Open `/simple-aim-game/index.html`
+
 
 ***
 
-<div align="center">Hope you had a good time here. If you liked the project, leave a ⭐ and visit <a href="https://github.com/ArziPL">my profile</a> to send feedback, check other projects, or make something cool together</p> 
+<div align="center">Hope you had a good time here. If you liked the project, leave a ⭐ and visit <a href="https://github.com/ArziPL">my profile</a> to send feedback, check other projects, or make something cool together</p></div> 
